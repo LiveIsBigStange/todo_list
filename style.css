@@ -5,4 +5,5 @@ h1 {
     padding: 14px;
     border-radius: 5px;
     box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+    width: 100px;
 }
